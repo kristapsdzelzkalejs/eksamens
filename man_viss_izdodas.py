@@ -1,0 +1,1 @@
+print("Man viss izdodas!")

@@ -1,0 +1,1 @@
+print("Mācies, kamēr gudrs tiec,\n  Visu labi vērā liec. \nDzīve gudra, viltīga - \n  Gudrība tur derīga!")
